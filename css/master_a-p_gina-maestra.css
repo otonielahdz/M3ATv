@@ -1,0 +1,124 @@
+#u259
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #02729A;
+	position: relative;
+}
+
+#u136
+{
+	position: absolute;
+}
+
+#u137
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #E4E4E4;
+	position: relative;
+}
+
+#u178
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u178:hover
+{
+	background-color: #B9E5F4;
+}
+
+#u206
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u206:hover
+{
+	background-color: #B9E5F4;
+}
+
+#u221
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u221:hover
+{
+	background-color: #B9E5F4;
+}
+
+#u234
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u234:hover
+{
+	background-color: #B9E5F4;
+}
+
+#u251
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u251:hover
+{
+	background-color: #B9E5F4;
+}
+
+#u178.MuseMenuActive,#u206.MuseMenuActive,#u221.MuseMenuActive,#u234.MuseMenuActive,#u251.MuseMenuActive
+{
+	background-color: transparent;
+}
+
+#u179-4,#u207-4,#u222-4,#u235-4,#u254-4
+{
+	font-size: 24px;
+	line-height: 29px;
+	text-align: center;
+	color: #000000;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u133
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u133.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u134
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #0392C5;
+}
+
+#u256,#u257,#pamphletu124,#menuu151,#u175,#u203,#u218,#u233,#u248,#u132,#u141,#u146
+{
+	position: relative;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
